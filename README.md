@@ -1,2 +1,3 @@
 # m_checkpoint1
-For mastery checkpoint 1
+Name: Anna
+Comment: For mastery checkpoint 1
